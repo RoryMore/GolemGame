@@ -1,0 +1,27 @@
+
+NAMING CONVENTIONS
+
+Skeletal Mesh (Mesh + Rig) = SK_   (E.g SK_Player)
+
+Animation = Anim_ (e.g Anim_PlayerWalk)
+
+Static Mesh (Any mesh without animation) = SM_
+
+Texture .png = T_
+
+Material (in engine) = M_
+
+Texture Suffixes
+
+
+_BC	Base color
+_MT	Metallic
+_S	Specular
+_R	Roughness
+_N	Normal
+_DP	Displacement
+_AO	Ambient Occlusion
+_H	Height Map
+_FM	Flow Map
+_L	Light Map (fake)
+_M	Mask
