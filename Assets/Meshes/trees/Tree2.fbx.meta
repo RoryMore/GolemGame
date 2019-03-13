@@ -9,7 +9,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: tree2
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_2
+    second: {fileID: 2100000, guid: 0cfc7ea8007f8a2439d8eb2ddcf99e98, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

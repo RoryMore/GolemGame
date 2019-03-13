@@ -9,7 +9,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: SM_Wall_Corner_wood
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 2329a5016ae623342b0ce0fa29b3505b, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

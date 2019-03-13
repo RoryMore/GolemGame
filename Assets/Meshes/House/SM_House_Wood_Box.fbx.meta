@@ -9,7 +9,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: SM_House_Wood_Box
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: b2f0764c89dd15b4caf06abc7833bbff, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -9,7 +9,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: SM_Roof_Corner
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Roof_Corner
+    second: {fileID: 2100000, guid: 6c8d8650a9b828746a2fc5f8aab9c470, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
